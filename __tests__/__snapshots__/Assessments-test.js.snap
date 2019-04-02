@@ -1,0 +1,2458 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should handle assessment component renders the assessment intro page as expected 1`] = `
+<RCTScrollView
+  style={
+    Object {
+      "height": 1232,
+    }
+  }
+>
+  <View>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flexDirection": "column",
+          "paddingBottom": 10,
+          "paddingHorizontal": 40,
+          "paddingTop": 20,
+        }
+      }
+    >
+      <View
+        accessible={true}
+        isTVSelectable={true}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "#EE6A3C",
+            "borderRadius": 0,
+            "borderWidth": 0,
+            "height": 30,
+            "justifyContent": "center",
+            "width": 525,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "alignItems": "center",
+              "color": "#ffffff",
+              "fontSize": 16,
+              "justifyContent": "center",
+              "textAlign": "center",
+            }
+          }
+        >
+          BEGIN NEW
+        </Text>
+      </View>
+      <Text
+        style={
+          Object {
+            "color": "#2F3C47",
+            "fontFamily": "OpenSans-Bold",
+            "fontSize": 25,
+            "marginTop": 5,
+          }
+        }
+      >
+        Your History.
+      </Text>
+    </View>
+    <View>
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "#17AB9F",
+            "flex": 1,
+            "flexDirection": "row",
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "flex": 1,
+              "paddingBottom": 10,
+              "paddingTop": 10,
+            }
+          }
+        />
+        <View
+          style={
+            Object {
+              "flex": 8,
+              "flexDirection": "row",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "flex": 3,
+                "justifyContent": "center",
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#ffffff",
+                  "fontFamily": "OpenSans-Bold",
+                  "fontSize": 12,
+                  "paddingBottom": 10,
+                  "paddingTop": 10,
+                  "textAlign": "center",
+                }
+              }
+            >
+              Date
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        accessible={true}
+        isTVSelectable={true}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={null}
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "flex": 1,
+              "flexDirection": "row",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flex": 1,
+                "paddingBottom": 10,
+                "paddingTop": 10,
+              }
+            }
+          >
+            <Text
+              allowFontScaling={false}
+              style={
+                Array [
+                  Object {
+                    "color": undefined,
+                    "fontSize": 12,
+                  },
+                  Object {
+                    "color": "#93CD8E",
+                  },
+                  Object {
+                    "fontFamily": "BearTracksIcons",
+                    "fontStyle": "normal",
+                    "fontWeight": "normal",
+                  },
+                ]
+              }
+            >
+              
+            </Text>
+          </View>
+          <View
+            style={
+              Object {
+                "borderBottomColor": "#EFEFEF",
+                "borderBottomWidth": 1,
+                "flex": 8,
+                "flexDirection": "row",
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "flex": 3,
+                  "justifyContent": "center",
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "color": "#979B9C",
+                    "fontSize": 12,
+                    "paddingBottom": 10,
+                    "paddingTop": 10,
+                    "textAlign": "center",
+                  }
+                }
+              >
+                08/14/2017  7:16PM
+              </Text>
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "marginBottom": 20,
+          "marginTop": 20,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#979B9C",
+            "fontFamily": "OpenSans",
+            "fontSize": 10,
+            "lineHeight": 18,
+            "paddingHorizontal": 40,
+            "textAlign": "center",
+          }
+        }
+      >
+        You will be able to view any completed assessments by clicking on the entry you would like to view.
+      </Text>
+    </View>
+  </View>
+</RCTScrollView>
+`;
+
+exports[`should handle assessment component renders the pages of an assessment as expected 1`] = `
+<RCTScrollView
+  onScroll={[Function]}
+  scrollEnabled={true}
+  style={
+    Object {
+      "height": 1232,
+      "marginTop": 55,
+    }
+  }
+>
+  <View>
+    <RCTScrollView
+      pagingEnabled={true}
+      style={
+        Object {
+          "flex": 1,
+          "flexDirection": "column",
+          "paddingBottom": 20,
+        }
+      }
+    >
+      <View>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "flex": 1,
+              "justifyContent": "center",
+              "padding": 10,
+              "paddingBottom": 0,
+              "paddingTop": 5,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#2F3C47",
+                "fontFamily": "OpenSans-Bold",
+                "fontSize": 25,
+                "textAlign": "center",
+              }
+            }
+          >
+            Before You Begin
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+            }
+          }
+        >
+          <Image
+            resizeMode="cover"
+            source={
+              Object {
+                "uri": "https://s3.amazonaws.com/perceivant-lti-images/IntroImage_AnkleFlexicon.jpg?cb=1514782800000",
+              }
+            }
+            style={
+              Object {
+                "height": 130,
+                "width": 750,
+              }
+            }
+          />
+        </View>
+        <View
+          style={
+            Object {
+              "alignItems": "flex-start",
+              "justifyContent": "flex-start",
+              "paddingHorizontal": 23,
+              "paddingVertical": 15,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#2F3C47",
+                "fontFamily": "OpenSans",
+                "fontSize": 15,
+                "marginBottom": 10,
+              }
+            }
+          >
+            
+          </Text>
+          <Text
+            style={Object {}}
+          >
+            <Text
+              onPress={null}
+            >
+              <Text
+                onPress={null}
+              >
+                <Text
+                  style={
+                    Object {
+                      "color": "#2F3C47",
+                      "fontFamily": "OpenSans-Bold",
+                      "fontWeight": "400",
+                    }
+                  }
+                >
+                  What does this mean for you?
+                </Text>
+              </Text>
+              <Text
+                onPress={null}
+              >
+                
+
+              </Text>
+              <Text
+                style={
+                  Object {
+                    "color": "#979B9C",
+                    "fontFamily": "OpenSans",
+                    "fontSize": 13,
+                  }
+                }
+              >
+                Words Needed
+              </Text>
+            </Text>
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "backgroundColor": "#EFEFEF",
+              "marginTop": 10,
+              "padding": 10,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#2F3C47",
+                "fontFamily": "OpenSans",
+                "fontSize": 14,
+                "textAlign": "center",
+              }
+            }
+          >
+            Variables needed:
+          </Text>
+          <View
+            style={
+              Object {
+                "alignContent": "flex-end",
+                "alignItems": "flex-start",
+                "flexDirection": "row",
+                "flexWrap": "wrap",
+                "justifyContent": "space-around",
+                "padding": 10,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "padding": 5,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "backgroundColor": "#2F3C47",
+                    "padding": 10,
+                  }
+                }
+              >
+                <Image
+                  resizeMode="cover"
+                  source={
+                    Object {
+                      "uri": "https://s3.amazonaws.com/perceivant-lti-images/icon/wall.png?cb=1514782800000",
+                    }
+                  }
+                  style={
+                    Object {
+                      "height": 150,
+                      "width": 150,
+                    }
+                  }
+                />
+              </View>
+              <Text
+                numberOfLines={2}
+                style={
+                  Object {
+                    "color": "#2F3C47",
+                    "fontFamily": "OpenSans",
+                    "fontSize": 8,
+                    "letterSpacing": 0,
+                    "marginTop": 10,
+                    "textAlign": "center",
+                    "width": 150,
+                  }
+                }
+              >
+                A wall
+              </Text>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "padding": 5,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "backgroundColor": "#2F3C47",
+                    "padding": 10,
+                  }
+                }
+              >
+                <Image
+                  resizeMode="cover"
+                  source={
+                    Object {
+                      "uri": "https://s3.amazonaws.com/perceivant-lti-images/icon/measure.png?cb=1514782800000",
+                    }
+                  }
+                  style={
+                    Object {
+                      "height": 150,
+                      "width": 150,
+                    }
+                  }
+                />
+              </View>
+              <Text
+                numberOfLines={2}
+                style={
+                  Object {
+                    "color": "#2F3C47",
+                    "fontFamily": "OpenSans",
+                    "fontSize": 8,
+                    "letterSpacing": 0,
+                    "marginTop": 10,
+                    "textAlign": "center",
+                    "width": 150,
+                  }
+                }
+              >
+                A measuring tape
+              </Text>
+            </View>
+          </View>
+        </View>
+      </View>
+    </RCTScrollView>
+  </View>
+</RCTScrollView>
+`;
+
+exports[`should handle assessment component renders the pages of an assessment as expected 2`] = `
+<RCTScrollView
+  onScroll={[Function]}
+  scrollEnabled={true}
+  style={
+    Object {
+      "height": 1232,
+      "marginTop": 55,
+    }
+  }
+>
+  <View>
+    <RCTScrollView
+      pagingEnabled={true}
+      style={
+        Object {
+          "flex": 1,
+          "flexDirection": "column",
+          "paddingBottom": 20,
+        }
+      }
+    >
+      <View>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "flex": 1,
+              "justifyContent": "center",
+              "padding": 10,
+              "paddingBottom": 0,
+              "paddingTop": 5,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#2F3C47",
+                "fontFamily": "OpenSans-Bold",
+                "fontSize": 25,
+                "textAlign": "center",
+              }
+            }
+          >
+            Before You Begin
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+            }
+          }
+        >
+          <Image
+            resizeMode="cover"
+            source={
+              Object {
+                "uri": "https://s3.amazonaws.com/perceivant-lti-images/IntroImage_AnkleFlexicon.jpg?cb=1514782800000",
+              }
+            }
+            style={
+              Object {
+                "height": 130,
+                "width": 750,
+              }
+            }
+          />
+        </View>
+        <View
+          style={
+            Object {
+              "alignItems": "flex-start",
+              "justifyContent": "flex-start",
+              "paddingHorizontal": 23,
+              "paddingVertical": 15,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#2F3C47",
+                "fontFamily": "OpenSans",
+                "fontSize": 15,
+                "marginBottom": 10,
+              }
+            }
+          >
+            
+          </Text>
+          <Text
+            style={Object {}}
+          >
+            <Text
+              onPress={null}
+            >
+              <Text
+                onPress={null}
+              >
+                <Text
+                  style={
+                    Object {
+                      "color": "#2F3C47",
+                      "fontFamily": "OpenSans-Bold",
+                      "fontWeight": "400",
+                    }
+                  }
+                >
+                  What does this mean for you?
+                </Text>
+              </Text>
+              <Text
+                onPress={null}
+              >
+                
+
+              </Text>
+              <Text
+                style={
+                  Object {
+                    "color": "#979B9C",
+                    "fontFamily": "OpenSans",
+                    "fontSize": 13,
+                  }
+                }
+              >
+                Words Needed
+              </Text>
+            </Text>
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "backgroundColor": "#EFEFEF",
+              "marginTop": 10,
+              "padding": 10,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#2F3C47",
+                "fontFamily": "OpenSans",
+                "fontSize": 14,
+                "textAlign": "center",
+              }
+            }
+          >
+            Variables needed:
+          </Text>
+          <View
+            style={
+              Object {
+                "alignContent": "flex-end",
+                "alignItems": "flex-start",
+                "flexDirection": "row",
+                "flexWrap": "wrap",
+                "justifyContent": "space-around",
+                "padding": 10,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "padding": 5,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "backgroundColor": "#2F3C47",
+                    "padding": 10,
+                  }
+                }
+              >
+                <Image
+                  resizeMode="cover"
+                  source={
+                    Object {
+                      "uri": "https://s3.amazonaws.com/perceivant-lti-images/icon/wall.png?cb=1514782800000",
+                    }
+                  }
+                  style={
+                    Object {
+                      "height": 150,
+                      "width": 150,
+                    }
+                  }
+                />
+              </View>
+              <Text
+                numberOfLines={2}
+                style={
+                  Object {
+                    "color": "#2F3C47",
+                    "fontFamily": "OpenSans",
+                    "fontSize": 8,
+                    "letterSpacing": 0,
+                    "marginTop": 10,
+                    "textAlign": "center",
+                    "width": 150,
+                  }
+                }
+              >
+                A wall
+              </Text>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "padding": 5,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "backgroundColor": "#2F3C47",
+                    "padding": 10,
+                  }
+                }
+              >
+                <Image
+                  resizeMode="cover"
+                  source={
+                    Object {
+                      "uri": "https://s3.amazonaws.com/perceivant-lti-images/icon/measure.png?cb=1514782800000",
+                    }
+                  }
+                  style={
+                    Object {
+                      "height": 150,
+                      "width": 150,
+                    }
+                  }
+                />
+              </View>
+              <Text
+                numberOfLines={2}
+                style={
+                  Object {
+                    "color": "#2F3C47",
+                    "fontFamily": "OpenSans",
+                    "fontSize": 8,
+                    "letterSpacing": 0,
+                    "marginTop": 10,
+                    "textAlign": "center",
+                    "width": 150,
+                  }
+                }
+              >
+                A measuring tape
+              </Text>
+            </View>
+          </View>
+        </View>
+      </View>
+    </RCTScrollView>
+  </View>
+</RCTScrollView>
+`;
+
+exports[`should handle assessment component renders the pages of an assessment as expected 3`] = `
+<RCTScrollView
+  onScroll={[Function]}
+  scrollEnabled={true}
+  style={
+    Object {
+      "height": 1232,
+      "marginTop": 55,
+    }
+  }
+>
+  <View>
+    <RCTScrollView
+      pagingEnabled={true}
+      style={
+        Object {
+          "flex": 1,
+          "flexDirection": "column",
+          "paddingBottom": 20,
+        }
+      }
+    >
+      <View>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "flex": 1,
+              "justifyContent": "center",
+              "padding": 10,
+              "paddingBottom": 0,
+              "paddingTop": 5,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#2F3C47",
+                "fontFamily": "OpenSans-Bold",
+                "fontSize": 25,
+                "textAlign": "center",
+              }
+            }
+          >
+            Before You Begin
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+            }
+          }
+        >
+          <Image
+            resizeMode="cover"
+            source={
+              Object {
+                "uri": "https://s3.amazonaws.com/perceivant-lti-images/IntroImage_AnkleFlexicon.jpg?cb=1514782800000",
+              }
+            }
+            style={
+              Object {
+                "height": 130,
+                "width": 750,
+              }
+            }
+          />
+        </View>
+        <View
+          style={
+            Object {
+              "alignItems": "flex-start",
+              "justifyContent": "flex-start",
+              "paddingHorizontal": 23,
+              "paddingVertical": 15,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#2F3C47",
+                "fontFamily": "OpenSans",
+                "fontSize": 15,
+                "marginBottom": 10,
+              }
+            }
+          >
+            
+          </Text>
+          <Text
+            style={Object {}}
+          >
+            <Text
+              onPress={null}
+            >
+              <Text
+                onPress={null}
+              >
+                <Text
+                  style={
+                    Object {
+                      "color": "#2F3C47",
+                      "fontFamily": "OpenSans-Bold",
+                      "fontWeight": "400",
+                    }
+                  }
+                >
+                  What does this mean for you?
+                </Text>
+              </Text>
+              <Text
+                onPress={null}
+              >
+                
+
+              </Text>
+              <Text
+                style={
+                  Object {
+                    "color": "#979B9C",
+                    "fontFamily": "OpenSans",
+                    "fontSize": 13,
+                  }
+                }
+              >
+                Words Needed
+              </Text>
+            </Text>
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "backgroundColor": "#EFEFEF",
+              "marginTop": 10,
+              "padding": 10,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#2F3C47",
+                "fontFamily": "OpenSans",
+                "fontSize": 14,
+                "textAlign": "center",
+              }
+            }
+          >
+            Variables needed:
+          </Text>
+          <View
+            style={
+              Object {
+                "alignContent": "flex-end",
+                "alignItems": "flex-start",
+                "flexDirection": "row",
+                "flexWrap": "wrap",
+                "justifyContent": "space-around",
+                "padding": 10,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "padding": 5,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "backgroundColor": "#2F3C47",
+                    "padding": 10,
+                  }
+                }
+              >
+                <Image
+                  resizeMode="cover"
+                  source={
+                    Object {
+                      "uri": "https://s3.amazonaws.com/perceivant-lti-images/icon/wall.png?cb=1514782800000",
+                    }
+                  }
+                  style={
+                    Object {
+                      "height": 150,
+                      "width": 150,
+                    }
+                  }
+                />
+              </View>
+              <Text
+                numberOfLines={2}
+                style={
+                  Object {
+                    "color": "#2F3C47",
+                    "fontFamily": "OpenSans",
+                    "fontSize": 8,
+                    "letterSpacing": 0,
+                    "marginTop": 10,
+                    "textAlign": "center",
+                    "width": 150,
+                  }
+                }
+              >
+                A wall
+              </Text>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "padding": 5,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "backgroundColor": "#2F3C47",
+                    "padding": 10,
+                  }
+                }
+              >
+                <Image
+                  resizeMode="cover"
+                  source={
+                    Object {
+                      "uri": "https://s3.amazonaws.com/perceivant-lti-images/icon/measure.png?cb=1514782800000",
+                    }
+                  }
+                  style={
+                    Object {
+                      "height": 150,
+                      "width": 150,
+                    }
+                  }
+                />
+              </View>
+              <Text
+                numberOfLines={2}
+                style={
+                  Object {
+                    "color": "#2F3C47",
+                    "fontFamily": "OpenSans",
+                    "fontSize": 8,
+                    "letterSpacing": 0,
+                    "marginTop": 10,
+                    "textAlign": "center",
+                    "width": 150,
+                  }
+                }
+              >
+                A measuring tape
+              </Text>
+            </View>
+          </View>
+        </View>
+      </View>
+    </RCTScrollView>
+  </View>
+</RCTScrollView>
+`;
+
+exports[`should handle redux functionality gets existing attempts successfully 1`] = `
+Array [
+  Object {
+    "loadingMessage": "",
+    "type": "SHOW_SPINNER",
+  },
+  Object {
+    "newAssessmentAttempt": BasicAssessment {
+      "assessment_type": "AnkleFlexionAssessment",
+      "assessment_url": "https://lti-staging.mybearface.com/ankle_flexion_assessment_attempts/2560",
+      "attempt_id": 2560,
+      "completed_at": null,
+      "data": Object {
+        "assessment_type": "AnkleFlexionAssessment",
+        "assessment_url": "https://lti-staging.mybearface.com/ankle_flexion_assessment_attempts/2560",
+        "attempt_id": 2560,
+        "completed_at": null,
+        "feedback_url": "https://lti-staging.mybearface.com/ankle_flexion_assessment_attempts/2560/feedback",
+        "id": 2560,
+        "lastVisitedPage": 2,
+        "pageDurations": Object {
+          "1": 1518,
+          "2": 4309,
+        },
+        "questionTags": Object {},
+        "responses": Object {},
+        "sections": Array [
+          Object {
+            "id": 1,
+            "includeInProgressBar": false,
+            "pages": Array [
+              Object {
+                "content": Object {
+                  "caption": "Before You Begin",
+                  "displayText": "<b>What does this mean for you?</b><br/>Words Needed",
+                  "footerText": "",
+                  "heroImage": "https://s3.amazonaws.com/perceivant-lti-images/IntroImage_AnkleFlexicon.jpg",
+                  "sections": Array [
+                    Object {
+                      "caption": "A wall",
+                      "iconURL": "https://s3.amazonaws.com/perceivant-lti-images/icon/wall.png",
+                      "id": 2,
+                    },
+                    Object {
+                      "caption": "A measuring tape",
+                      "iconURL": "https://s3.amazonaws.com/perceivant-lti-images/icon/measure.png",
+                      "id": 3,
+                    },
+                  ],
+                  "variablesTitle": "For the Ankle Flexion Assessment you will need:",
+                },
+                "id": 1,
+                "type": "featuresPage",
+              },
+              Object {
+                "content": Object {
+                  "caption": "Let's Get Started",
+                  "displayText": "Watch the video and carefully read the following instructions prior to beginning the assessment.",
+                  "steps": Array [
+                    Object {
+                      "stepText": "Sit on the floor with legs extended and the knees straight.",
+                    },
+                    Object {
+                      "stepText": "The feet should be flat against a wall and the arms by the side of the body with palms down.",
+                    },
+                    Object {
+                      "stepText": "Without bending the knees or moving the heels away from wall, flex the foot by pulling the toes toward body.",
+                    },
+                    Object {
+                      "stepText": "Enter your result on the next page.",
+                    },
+                    Object {
+                      "stepText": "Repeat the assessment using the other foot.",
+                    },
+                  ],
+                  "video": "https://www.youtube.com/watch?v=sEOnZbAVSgY",
+                },
+                "id": 2,
+                "type": "stepsPage",
+              },
+              Object {
+                "id": 3,
+                "questions": Array [
+                  Object {
+                    "answers": Array [
+                      Object {
+                        "displayText": "Left Foot",
+                        "value": 0,
+                      },
+                      Object {
+                        "displayText": "Right Foot",
+                        "value": 1,
+                      },
+                    ],
+                    "id": 1,
+                    "questionImage": "",
+                    "questionTag": "foot",
+                    "questionText": "Foot:",
+                    "questionType": "multipleChoice",
+                  },
+                  Object {
+                    "answers": Array [
+                      Object {
+                        "displayText": "I was unable to get to 90 degrees with knee straight.",
+                        "value": 0,
+                      },
+                      Object {
+                        "displayText": "Under 2 inches",
+                        "value": 1,
+                      },
+                      Object {
+                        "displayText": "2 inches or more",
+                        "value": 2,
+                      },
+                    ],
+                    "id": 2,
+                    "questionImage": "",
+                    "questionTag": "footFlex",
+                    "questionText": "How far did the ball of your foot move from the wall?",
+                    "questionType": "multipleChoice",
+                  },
+                ],
+                "type": "question",
+              },
+              Object {
+                "accordions": Array [
+                  Object {
+                    "displayText": "Words needed",
+                    "title": "What does this mean for you?",
+                    "type": "paragraph",
+                  },
+                  Object {
+                    "resultsTable": Array [
+                      Object {
+                        "resultsKey": "type",
+                        "resultsValue": "AnkleFlexionAssessmentAttempt",
+                        "rows": Array [
+                          Object {
+                            "text": "Fitness Category",
+                            "values": Array [
+                              Object {
+                                "text": "Flex Distance",
+                              },
+                            ],
+                          },
+                          Object {
+                            "resultsKey": "footFlex",
+                            "text": "Good",
+                            "values": Array [
+                              Object {
+                                "maxValue": 2,
+                                "minValue": 2,
+                                "text": "⪰ 2 inches",
+                              },
+                            ],
+                          },
+                          Object {
+                            "resultsKey": "footFlex",
+                            "text": "Fair",
+                            "values": Array [
+                              Object {
+                                "maxValue": 1,
+                                "minValue": 1,
+                                "text": "< 2 inches",
+                              },
+                            ],
+                          },
+                          Object {
+                            "resultsKey": "footFlex",
+                            "text": "Poor",
+                            "values": Array [
+                              Object {
+                                "maxValue": 0,
+                                "minValue": 0,
+                                "text": "Could not get to 90°",
+                              },
+                            ],
+                          },
+                        ],
+                        "title": "Ankle Flexion",
+                      },
+                    ],
+                    "title": "How do you compare to others?",
+                    "type": "table",
+                  },
+                  Object {
+                    "displayText": "Copyright 2014. BYU Used with permission.",
+                    "title": "References.",
+                    "type": "paragraph",
+                  },
+                  Object {
+                    "title": "What you entered.",
+                    "type": "userInputs",
+                  },
+                ],
+                "content": Object {
+                  "caption": "Results",
+                  "displayText": "Your ankle flexion distance:",
+                  "infoText": "",
+                  "infoTitle": "",
+                  "scoreUnits": "",
+                  "showScore": true,
+                  "showStatus": false,
+                },
+                "id": 4,
+                "type": "feedback",
+              },
+            ],
+            "title": "Ankle Flexion Assessment",
+          },
+        ],
+        "statusParameters": Array [
+          "type",
+          "footFlex",
+        ],
+        "user_name": "Staging, Chris",
+        "visitedPages": Array [
+          1,
+          2,
+        ],
+      },
+      "feedback_url": "https://lti-staging.mybearface.com/ankle_flexion_assessment_attempts/2560/feedback",
+      "id": 2560,
+      "lastVisitedPage": 2,
+      "pageDurations": Object {
+        "1": 1518,
+        "2": 4309,
+      },
+      "questionTags": Object {},
+      "responses": Object {},
+      "sections": Array [
+        Section {
+          "data": Object {
+            "id": 1,
+            "includeInProgressBar": false,
+            "pages": Array [
+              Object {
+                "content": Object {
+                  "caption": "Before You Begin",
+                  "displayText": "<b>What does this mean for you?</b><br/>Words Needed",
+                  "footerText": "",
+                  "heroImage": "https://s3.amazonaws.com/perceivant-lti-images/IntroImage_AnkleFlexicon.jpg",
+                  "sections": Array [
+                    Object {
+                      "caption": "A wall",
+                      "iconURL": "https://s3.amazonaws.com/perceivant-lti-images/icon/wall.png",
+                      "id": 2,
+                    },
+                    Object {
+                      "caption": "A measuring tape",
+                      "iconURL": "https://s3.amazonaws.com/perceivant-lti-images/icon/measure.png",
+                      "id": 3,
+                    },
+                  ],
+                  "variablesTitle": "For the Ankle Flexion Assessment you will need:",
+                },
+                "id": 1,
+                "type": "featuresPage",
+              },
+              Object {
+                "content": Object {
+                  "caption": "Let's Get Started",
+                  "displayText": "Watch the video and carefully read the following instructions prior to beginning the assessment.",
+                  "steps": Array [
+                    Object {
+                      "stepText": "Sit on the floor with legs extended and the knees straight.",
+                    },
+                    Object {
+                      "stepText": "The feet should be flat against a wall and the arms by the side of the body with palms down.",
+                    },
+                    Object {
+                      "stepText": "Without bending the knees or moving the heels away from wall, flex the foot by pulling the toes toward body.",
+                    },
+                    Object {
+                      "stepText": "Enter your result on the next page.",
+                    },
+                    Object {
+                      "stepText": "Repeat the assessment using the other foot.",
+                    },
+                  ],
+                  "video": "https://www.youtube.com/watch?v=sEOnZbAVSgY",
+                },
+                "id": 2,
+                "type": "stepsPage",
+              },
+              Object {
+                "id": 3,
+                "questions": Array [
+                  Object {
+                    "answers": Array [
+                      Object {
+                        "displayText": "Left Foot",
+                        "value": 0,
+                      },
+                      Object {
+                        "displayText": "Right Foot",
+                        "value": 1,
+                      },
+                    ],
+                    "id": 1,
+                    "questionImage": "",
+                    "questionTag": "foot",
+                    "questionText": "Foot:",
+                    "questionType": "multipleChoice",
+                  },
+                  Object {
+                    "answers": Array [
+                      Object {
+                        "displayText": "I was unable to get to 90 degrees with knee straight.",
+                        "value": 0,
+                      },
+                      Object {
+                        "displayText": "Under 2 inches",
+                        "value": 1,
+                      },
+                      Object {
+                        "displayText": "2 inches or more",
+                        "value": 2,
+                      },
+                    ],
+                    "id": 2,
+                    "questionImage": "",
+                    "questionTag": "footFlex",
+                    "questionText": "How far did the ball of your foot move from the wall?",
+                    "questionType": "multipleChoice",
+                  },
+                ],
+                "type": "question",
+              },
+              Object {
+                "accordions": Array [
+                  Object {
+                    "displayText": "Words needed",
+                    "title": "What does this mean for you?",
+                    "type": "paragraph",
+                  },
+                  Object {
+                    "resultsTable": Array [
+                      Object {
+                        "resultsKey": "type",
+                        "resultsValue": "AnkleFlexionAssessmentAttempt",
+                        "rows": Array [
+                          Object {
+                            "text": "Fitness Category",
+                            "values": Array [
+                              Object {
+                                "text": "Flex Distance",
+                              },
+                            ],
+                          },
+                          Object {
+                            "resultsKey": "footFlex",
+                            "text": "Good",
+                            "values": Array [
+                              Object {
+                                "maxValue": 2,
+                                "minValue": 2,
+                                "text": "⪰ 2 inches",
+                              },
+                            ],
+                          },
+                          Object {
+                            "resultsKey": "footFlex",
+                            "text": "Fair",
+                            "values": Array [
+                              Object {
+                                "maxValue": 1,
+                                "minValue": 1,
+                                "text": "< 2 inches",
+                              },
+                            ],
+                          },
+                          Object {
+                            "resultsKey": "footFlex",
+                            "text": "Poor",
+                            "values": Array [
+                              Object {
+                                "maxValue": 0,
+                                "minValue": 0,
+                                "text": "Could not get to 90°",
+                              },
+                            ],
+                          },
+                        ],
+                        "title": "Ankle Flexion",
+                      },
+                    ],
+                    "title": "How do you compare to others?",
+                    "type": "table",
+                  },
+                  Object {
+                    "displayText": "Copyright 2014. BYU Used with permission.",
+                    "title": "References.",
+                    "type": "paragraph",
+                  },
+                  Object {
+                    "title": "What you entered.",
+                    "type": "userInputs",
+                  },
+                ],
+                "content": Object {
+                  "caption": "Results",
+                  "displayText": "Your ankle flexion distance:",
+                  "infoText": "",
+                  "infoTitle": "",
+                  "scoreUnits": "",
+                  "showScore": true,
+                  "showStatus": false,
+                },
+                "id": 4,
+                "type": "feedback",
+              },
+            ],
+            "title": "Ankle Flexion Assessment",
+          },
+          "id": 1,
+          "includeInProgressBar": false,
+          "index": 0,
+          "pages": Array [
+            Page {
+              "content": Object {
+                "caption": "Before You Begin",
+                "displayText": "<b>What does this mean for you?</b><br/>Words Needed",
+                "footerText": "",
+                "heroImage": "https://s3.amazonaws.com/perceivant-lti-images/IntroImage_AnkleFlexicon.jpg",
+                "sections": Array [
+                  Object {
+                    "caption": "A wall",
+                    "iconURL": "https://s3.amazonaws.com/perceivant-lti-images/icon/wall.png",
+                    "id": 2,
+                  },
+                  Object {
+                    "caption": "A measuring tape",
+                    "iconURL": "https://s3.amazonaws.com/perceivant-lti-images/icon/measure.png",
+                    "id": 3,
+                  },
+                ],
+                "variablesTitle": "For the Ankle Flexion Assessment you will need:",
+              },
+              "data": Object {
+                "content": Object {
+                  "caption": "Before You Begin",
+                  "displayText": "<b>What does this mean for you?</b><br/>Words Needed",
+                  "footerText": "",
+                  "heroImage": "https://s3.amazonaws.com/perceivant-lti-images/IntroImage_AnkleFlexicon.jpg",
+                  "sections": Array [
+                    Object {
+                      "caption": "A wall",
+                      "iconURL": "https://s3.amazonaws.com/perceivant-lti-images/icon/wall.png",
+                      "id": 2,
+                    },
+                    Object {
+                      "caption": "A measuring tape",
+                      "iconURL": "https://s3.amazonaws.com/perceivant-lti-images/icon/measure.png",
+                      "id": 3,
+                    },
+                  ],
+                  "variablesTitle": "For the Ankle Flexion Assessment you will need:",
+                },
+                "id": 1,
+                "type": "featuresPage",
+              },
+              "id": 1,
+              "index": 0,
+              "isCurrentPage": false,
+              "parent": [Circular],
+              "responses": Object {},
+              "type": "featuresPage",
+            },
+            Page {
+              "content": Object {
+                "caption": "Let's Get Started",
+                "displayText": "Watch the video and carefully read the following instructions prior to beginning the assessment.",
+                "steps": Array [
+                  Object {
+                    "stepText": "Sit on the floor with legs extended and the knees straight.",
+                  },
+                  Object {
+                    "stepText": "The feet should be flat against a wall and the arms by the side of the body with palms down.",
+                  },
+                  Object {
+                    "stepText": "Without bending the knees or moving the heels away from wall, flex the foot by pulling the toes toward body.",
+                  },
+                  Object {
+                    "stepText": "Enter your result on the next page.",
+                  },
+                  Object {
+                    "stepText": "Repeat the assessment using the other foot.",
+                  },
+                ],
+                "video": "https://www.youtube.com/watch?v=sEOnZbAVSgY",
+              },
+              "data": Object {
+                "content": Object {
+                  "caption": "Let's Get Started",
+                  "displayText": "Watch the video and carefully read the following instructions prior to beginning the assessment.",
+                  "steps": Array [
+                    Object {
+                      "stepText": "Sit on the floor with legs extended and the knees straight.",
+                    },
+                    Object {
+                      "stepText": "The feet should be flat against a wall and the arms by the side of the body with palms down.",
+                    },
+                    Object {
+                      "stepText": "Without bending the knees or moving the heels away from wall, flex the foot by pulling the toes toward body.",
+                    },
+                    Object {
+                      "stepText": "Enter your result on the next page.",
+                    },
+                    Object {
+                      "stepText": "Repeat the assessment using the other foot.",
+                    },
+                  ],
+                  "video": "https://www.youtube.com/watch?v=sEOnZbAVSgY",
+                },
+                "id": 2,
+                "type": "stepsPage",
+              },
+              "id": 2,
+              "index": 1,
+              "isCurrentPage": true,
+              "parent": [Circular],
+              "responses": Object {},
+              "type": "stepsPage",
+            },
+            Page {
+              "data": Object {
+                "id": 3,
+                "questions": Array [
+                  Object {
+                    "answers": Array [
+                      Object {
+                        "displayText": "Left Foot",
+                        "value": 0,
+                      },
+                      Object {
+                        "displayText": "Right Foot",
+                        "value": 1,
+                      },
+                    ],
+                    "id": 1,
+                    "questionImage": "",
+                    "questionTag": "foot",
+                    "questionText": "Foot:",
+                    "questionType": "multipleChoice",
+                  },
+                  Object {
+                    "answers": Array [
+                      Object {
+                        "displayText": "I was unable to get to 90 degrees with knee straight.",
+                        "value": 0,
+                      },
+                      Object {
+                        "displayText": "Under 2 inches",
+                        "value": 1,
+                      },
+                      Object {
+                        "displayText": "2 inches or more",
+                        "value": 2,
+                      },
+                    ],
+                    "id": 2,
+                    "questionImage": "",
+                    "questionTag": "footFlex",
+                    "questionText": "How far did the ball of your foot move from the wall?",
+                    "questionType": "multipleChoice",
+                  },
+                ],
+                "type": "question",
+              },
+              "id": 3,
+              "index": 2,
+              "parent": [Circular],
+              "questions": Array [
+                Question {
+                  "answers": Array [
+                    Answer {
+                      "data": Object {
+                        "displayText": "Left Foot",
+                        "value": 0,
+                      },
+                      "displayText": "Left Foot",
+                      "index": 0,
+                      "parent": [Circular],
+                      "responses": Object {},
+                      "value": 0,
+                    },
+                    Answer {
+                      "data": Object {
+                        "displayText": "Right Foot",
+                        "value": 1,
+                      },
+                      "displayText": "Right Foot",
+                      "index": 1,
+                      "parent": [Circular],
+                      "responses": Object {},
+                      "value": 1,
+                    },
+                  ],
+                  "data": Object {
+                    "answers": Array [
+                      Object {
+                        "displayText": "Left Foot",
+                        "value": 0,
+                      },
+                      Object {
+                        "displayText": "Right Foot",
+                        "value": 1,
+                      },
+                    ],
+                    "id": 1,
+                    "questionImage": "",
+                    "questionTag": "foot",
+                    "questionText": "Foot:",
+                    "questionType": "multipleChoice",
+                  },
+                  "id": 1,
+                  "index": 0,
+                  "parent": [Circular],
+                  "questionImage": "",
+                  "questionTag": "foot",
+                  "questionText": "Foot:",
+                  "questionType": "multipleChoice",
+                  "responses": Object {},
+                },
+                Question {
+                  "answers": Array [
+                    Answer {
+                      "data": Object {
+                        "displayText": "I was unable to get to 90 degrees with knee straight.",
+                        "value": 0,
+                      },
+                      "displayText": "I was unable to get to 90 degrees with knee straight.",
+                      "index": 0,
+                      "parent": [Circular],
+                      "responses": Object {},
+                      "value": 0,
+                    },
+                    Answer {
+                      "data": Object {
+                        "displayText": "Under 2 inches",
+                        "value": 1,
+                      },
+                      "displayText": "Under 2 inches",
+                      "index": 1,
+                      "parent": [Circular],
+                      "responses": Object {},
+                      "value": 1,
+                    },
+                    Answer {
+                      "data": Object {
+                        "displayText": "2 inches or more",
+                        "value": 2,
+                      },
+                      "displayText": "2 inches or more",
+                      "index": 2,
+                      "parent": [Circular],
+                      "responses": Object {},
+                      "value": 2,
+                    },
+                  ],
+                  "data": Object {
+                    "answers": Array [
+                      Object {
+                        "displayText": "I was unable to get to 90 degrees with knee straight.",
+                        "value": 0,
+                      },
+                      Object {
+                        "displayText": "Under 2 inches",
+                        "value": 1,
+                      },
+                      Object {
+                        "displayText": "2 inches or more",
+                        "value": 2,
+                      },
+                    ],
+                    "id": 2,
+                    "questionImage": "",
+                    "questionTag": "footFlex",
+                    "questionText": "How far did the ball of your foot move from the wall?",
+                    "questionType": "multipleChoice",
+                  },
+                  "id": 2,
+                  "index": 1,
+                  "parent": [Circular],
+                  "questionImage": "",
+                  "questionTag": "footFlex",
+                  "questionText": "How far did the ball of your foot move from the wall?",
+                  "questionType": "multipleChoice",
+                  "responses": Object {},
+                },
+              ],
+              "responses": Object {},
+              "type": "question",
+            },
+            Page {
+              "accordions": Array [
+                Object {
+                  "displayText": "Words needed",
+                  "title": "What does this mean for you?",
+                  "type": "paragraph",
+                },
+                Object {
+                  "resultsTable": Array [
+                    Object {
+                      "resultsKey": "type",
+                      "resultsValue": "AnkleFlexionAssessmentAttempt",
+                      "rows": Array [
+                        Object {
+                          "text": "Fitness Category",
+                          "values": Array [
+                            Object {
+                              "text": "Flex Distance",
+                            },
+                          ],
+                        },
+                        Object {
+                          "resultsKey": "footFlex",
+                          "text": "Good",
+                          "values": Array [
+                            Object {
+                              "maxValue": 2,
+                              "minValue": 2,
+                              "text": "⪰ 2 inches",
+                            },
+                          ],
+                        },
+                        Object {
+                          "resultsKey": "footFlex",
+                          "text": "Fair",
+                          "values": Array [
+                            Object {
+                              "maxValue": 1,
+                              "minValue": 1,
+                              "text": "< 2 inches",
+                            },
+                          ],
+                        },
+                        Object {
+                          "resultsKey": "footFlex",
+                          "text": "Poor",
+                          "values": Array [
+                            Object {
+                              "maxValue": 0,
+                              "minValue": 0,
+                              "text": "Could not get to 90°",
+                            },
+                          ],
+                        },
+                      ],
+                      "title": "Ankle Flexion",
+                    },
+                  ],
+                  "title": "How do you compare to others?",
+                  "type": "table",
+                },
+                Object {
+                  "displayText": "Copyright 2014. BYU Used with permission.",
+                  "title": "References.",
+                  "type": "paragraph",
+                },
+                Object {
+                  "title": "What you entered.",
+                  "type": "userInputs",
+                },
+              ],
+              "content": Object {
+                "caption": "Results",
+                "displayText": "Your ankle flexion distance:",
+                "infoText": "",
+                "infoTitle": "",
+                "scoreUnits": "",
+                "showScore": true,
+                "showStatus": false,
+              },
+              "data": Object {
+                "accordions": Array [
+                  Object {
+                    "displayText": "Words needed",
+                    "title": "What does this mean for you?",
+                    "type": "paragraph",
+                  },
+                  Object {
+                    "resultsTable": Array [
+                      Object {
+                        "resultsKey": "type",
+                        "resultsValue": "AnkleFlexionAssessmentAttempt",
+                        "rows": Array [
+                          Object {
+                            "text": "Fitness Category",
+                            "values": Array [
+                              Object {
+                                "text": "Flex Distance",
+                              },
+                            ],
+                          },
+                          Object {
+                            "resultsKey": "footFlex",
+                            "text": "Good",
+                            "values": Array [
+                              Object {
+                                "maxValue": 2,
+                                "minValue": 2,
+                                "text": "⪰ 2 inches",
+                              },
+                            ],
+                          },
+                          Object {
+                            "resultsKey": "footFlex",
+                            "text": "Fair",
+                            "values": Array [
+                              Object {
+                                "maxValue": 1,
+                                "minValue": 1,
+                                "text": "< 2 inches",
+                              },
+                            ],
+                          },
+                          Object {
+                            "resultsKey": "footFlex",
+                            "text": "Poor",
+                            "values": Array [
+                              Object {
+                                "maxValue": 0,
+                                "minValue": 0,
+                                "text": "Could not get to 90°",
+                              },
+                            ],
+                          },
+                        ],
+                        "title": "Ankle Flexion",
+                      },
+                    ],
+                    "title": "How do you compare to others?",
+                    "type": "table",
+                  },
+                  Object {
+                    "displayText": "Copyright 2014. BYU Used with permission.",
+                    "title": "References.",
+                    "type": "paragraph",
+                  },
+                  Object {
+                    "title": "What you entered.",
+                    "type": "userInputs",
+                  },
+                ],
+                "content": Object {
+                  "caption": "Results",
+                  "displayText": "Your ankle flexion distance:",
+                  "infoText": "",
+                  "infoTitle": "",
+                  "scoreUnits": "",
+                  "showScore": true,
+                  "showStatus": false,
+                },
+                "id": 4,
+                "type": "feedback",
+              },
+              "id": 4,
+              "index": 3,
+              "parent": [Circular],
+              "responses": Object {},
+              "type": "feedback",
+            },
+          ],
+          "parent": [Circular],
+          "responses": Object {},
+          "title": "Ankle Flexion Assessment",
+        },
+      ],
+      "statusParameters": Array [
+        "type",
+        "footFlex",
+      ],
+      "user_name": "Staging, Chris",
+      "visitedPages": Set {
+        1,
+        2,
+      },
+    },
+    "type": "NEW_ASSESSMENT_ATTEMPT",
+  },
+  Object {
+    "type": "HIDE_SPINNER",
+  },
+]
+`;
+
+exports[`should handle redux functionality renders assessment intros successfully 1`] = `
+Array [
+  Object {
+    "loadingMessage": "",
+    "type": "SHOW_SPINNER",
+  },
+  Object {
+    "assessmentInfo": Object {
+      "assignment_id": 1,
+      "course_id": 6,
+      "url": "https://beartracks-staging.perceivant.com/api/v1/assessments/family_history_assessment",
+    },
+    "assessmentIntro": Object {
+      "assessment_id": 28,
+      "attempts": Array [
+        Object {
+          "attempt_url": "https://beartracks-staging.perceivant.com/api/v1/assessment_attempts/139",
+          "completed": true,
+          "historyColumns": Object {
+            "Date": "08/14/2017  7:16PM",
+          },
+          "id": 139,
+          "ownAttempt": true,
+          "sectionId": -1,
+          "statusDate": "2017-08-14T19:16:51.806Z",
+        },
+      ],
+      "create_attempt_url": "https://beartracks-staging.perceivant.com/api/v1/assessments/28/assessment_attempts",
+      "introduction": Object {
+        "adminHistoryPage": Object {
+          "columns": Array [
+            Object {
+              "fieldName": "usersName",
+              "headerName": "Student",
+            },
+            Object {
+              "fieldName": "date_completed",
+              "headerName": "Date",
+            },
+            Object {
+              "fieldName": "attemptNumber",
+              "headerName": "Attempt",
+            },
+          ],
+          "displayText": "You will be able to view any completed assessments by clicking on the entry you would like to view.",
+          "footer": "",
+          "title": "Your History",
+        },
+        "includeInProgressBar": false,
+        "introPage": Object {
+          "title": "Family History Assessment",
+        },
+        "mobileStudentHistoryPage": Object {
+          "columns": Array [
+            Object {
+              "fieldName": "date_completed",
+              "headerName": "Date",
+            },
+          ],
+          "displayText": "",
+          "footer": "You will be able to view any completed assessments by clicking on the entry you would like to view.",
+          "title": "Your History",
+        },
+        "studentHistoryPage": Object {
+          "columns": Array [
+            Object {
+              "fieldName": "date_completed",
+              "headerName": "Date",
+            },
+          ],
+          "displayText": "You will be able to view any completed assessments by clicking on the entry you would like to view.",
+          "footer": "",
+          "title": "Your History",
+        },
+      },
+      "widgets": Array [],
+    },
+    "type": "ASSESSMENT_INTRO",
+  },
+  Object {
+    "type": "HIDE_SPINNER",
+  },
+]
+`;
+
+exports[`should handle redux functionality sets assessments and assignments correctly 1`] = `
+Object {
+  "answersList": Object {},
+  "areAnswersSubmitting": false,
+  "assessment": Object {},
+  "assessmentIntro": Object {
+    "assessment_id": 28,
+    "attempts": Array [
+      Object {
+        "attempt_url": "https://beartracks-staging.perceivant.com/api/v1/assessment_attempts/139",
+        "completed": true,
+        "historyColumns": Object {
+          "Date": "08/14/2017  7:16PM",
+        },
+        "id": 139,
+        "ownAttempt": true,
+        "sectionId": -1,
+        "statusDate": "2017-08-14T19:16:51.806Z",
+      },
+    ],
+    "create_attempt_url": "https://beartracks-staging.perceivant.com/api/v1/assessments/28/assessment_attempts",
+    "introduction": Object {
+      "adminHistoryPage": Object {
+        "columns": Array [
+          Object {
+            "fieldName": "usersName",
+            "headerName": "Student",
+          },
+          Object {
+            "fieldName": "date_completed",
+            "headerName": "Date",
+          },
+          Object {
+            "fieldName": "attemptNumber",
+            "headerName": "Attempt",
+          },
+        ],
+        "displayText": "You will be able to view any completed assessments by clicking on the entry you would like to view.",
+        "footer": "",
+        "title": "Your History",
+      },
+      "includeInProgressBar": false,
+      "introPage": Object {
+        "title": "Family History Assessment",
+      },
+      "mobileStudentHistoryPage": Object {
+        "columns": Array [
+          Object {
+            "fieldName": "date_completed",
+            "headerName": "Date",
+          },
+        ],
+        "displayText": "",
+        "footer": "You will be able to view any completed assessments by clicking on the entry you would like to view.",
+        "title": "Your History",
+      },
+      "studentHistoryPage": Object {
+        "columns": Array [
+          Object {
+            "fieldName": "date_completed",
+            "headerName": "Date",
+          },
+        ],
+        "displayText": "You will be able to view any completed assessments by clicking on the entry you would like to view.",
+        "footer": "",
+        "title": "Your History",
+      },
+    },
+    "widgets": Array [],
+  },
+  "assessmentResults": Object {},
+  "assignmentId": 1,
+  "courseId": 6,
+  "currentFeedback": "",
+  "currentPage": 1,
+  "currentSection": 0,
+  "dynamicData": Object {},
+  "feedBackList": Array [],
+  "isNextPageAllowed": true,
+  "isResultsPageAllowed": false,
+  "isWBA": false,
+  "isWaitingOnDynamicData": false,
+  "priorityData": Array [
+    Object {
+      "color": "#93CD8E",
+      "confidence": 0,
+      "icon": "Dimensions_Financial",
+      "satisfaction": 0,
+      "type": "Financial",
+    },
+    Object {
+      "color": "#EA526F",
+      "confidence": 0,
+      "icon": "Dimensions_Emotional",
+      "satisfaction": 0,
+      "type": "Emotional",
+    },
+    Object {
+      "color": "#1BAAC7",
+      "confidence": 0,
+      "icon": "Dimensions_Social",
+      "satisfaction": 0,
+      "type": "Social",
+    },
+    Object {
+      "color": "#2F3C47",
+      "confidence": 0,
+      "icon": "Dimensions_Physical",
+      "satisfaction": 0,
+      "type": "Physical",
+    },
+    Object {
+      "color": "#17AB9F",
+      "confidence": 0,
+      "icon": "Dimensions_Environmental",
+      "satisfaction": 0,
+      "type": "Environmental",
+    },
+    Object {
+      "color": "#FFD05B",
+      "confidence": 0,
+      "icon": "Dimensions_Intellectual",
+      "satisfaction": 0,
+      "type": "Intellectual",
+    },
+    Object {
+      "color": "#EE6A3C",
+      "confidence": 0,
+      "icon": "Dimensions_Spiritual",
+      "satisfaction": 0,
+      "type": "Spiritual",
+    },
+    Object {
+      "color": "#B377BE",
+      "confidence": 0,
+      "icon": "Dimensions_Occupational",
+      "satisfaction": 0,
+      "type": "Occupational",
+    },
+  ],
+  "sectionsCount": 0,
+  "standardResponses": Object {},
+  "title": "",
+}
+`;
+
+exports[`should handle redux functionality sets up an existing attempt correctly 1`] = `
+Object {
+  "answersList": Object {},
+  "areAnswersSubmitting": false,
+  "assessment": Object {
+    "assessment_type": "AnkleFlexionAssessment",
+    "assessment_url": "https://lti-staging.mybearface.com/ankle_flexion_assessment_attempts/2560",
+    "attempt_id": 2560,
+    "completed_at": null,
+    "feedback_url": "https://lti-staging.mybearface.com/ankle_flexion_assessment_attempts/2560/feedback",
+    "id": 2560,
+    "lastVisitedPage": 2,
+    "pageDurations": Object {
+      "1": 1518,
+      "2": 4309,
+    },
+    "questionTags": Object {},
+    "responses": Object {},
+    "sections": Array [
+      Object {
+        "id": 1,
+        "includeInProgressBar": false,
+        "pages": Array [
+          Object {
+            "content": Object {
+              "caption": "Before You Begin",
+              "displayText": "<b>What does this mean for you?</b><br/>Words Needed",
+              "footerText": "",
+              "heroImage": "https://s3.amazonaws.com/perceivant-lti-images/IntroImage_AnkleFlexicon.jpg",
+              "sections": Array [
+                Object {
+                  "caption": "A wall",
+                  "iconURL": "https://s3.amazonaws.com/perceivant-lti-images/icon/wall.png",
+                  "id": 2,
+                },
+                Object {
+                  "caption": "A measuring tape",
+                  "iconURL": "https://s3.amazonaws.com/perceivant-lti-images/icon/measure.png",
+                  "id": 3,
+                },
+              ],
+              "variablesTitle": "For the Ankle Flexion Assessment you will need:",
+            },
+            "id": 1,
+            "type": "featuresPage",
+          },
+          Object {
+            "content": Object {
+              "caption": "Let's Get Started",
+              "displayText": "Watch the video and carefully read the following instructions prior to beginning the assessment.",
+              "steps": Array [
+                Object {
+                  "stepText": "Sit on the floor with legs extended and the knees straight.",
+                },
+                Object {
+                  "stepText": "The feet should be flat against a wall and the arms by the side of the body with palms down.",
+                },
+                Object {
+                  "stepText": "Without bending the knees or moving the heels away from wall, flex the foot by pulling the toes toward body.",
+                },
+                Object {
+                  "stepText": "Enter your result on the next page.",
+                },
+                Object {
+                  "stepText": "Repeat the assessment using the other foot.",
+                },
+              ],
+              "video": "https://www.youtube.com/watch?v=sEOnZbAVSgY",
+            },
+            "id": 2,
+            "type": "stepsPage",
+          },
+          Object {
+            "id": 3,
+            "questions": Array [
+              Object {
+                "answers": Array [
+                  Object {
+                    "displayText": "Left Foot",
+                    "value": 0,
+                  },
+                  Object {
+                    "displayText": "Right Foot",
+                    "value": 1,
+                  },
+                ],
+                "id": 1,
+                "questionImage": "",
+                "questionTag": "foot",
+                "questionText": "Foot:",
+                "questionType": "multipleChoice",
+              },
+              Object {
+                "answers": Array [
+                  Object {
+                    "displayText": "I was unable to get to 90 degrees with knee straight.",
+                    "value": 0,
+                  },
+                  Object {
+                    "displayText": "Under 2 inches",
+                    "value": 1,
+                  },
+                  Object {
+                    "displayText": "2 inches or more",
+                    "value": 2,
+                  },
+                ],
+                "id": 2,
+                "questionImage": "",
+                "questionTag": "footFlex",
+                "questionText": "How far did the ball of your foot move from the wall?",
+                "questionType": "multipleChoice",
+              },
+            ],
+            "type": "question",
+          },
+          Object {
+            "accordions": Array [
+              Object {
+                "displayText": "Words needed",
+                "title": "What does this mean for you?",
+                "type": "paragraph",
+              },
+              Object {
+                "resultsTable": Array [
+                  Object {
+                    "resultsKey": "type",
+                    "resultsValue": "AnkleFlexionAssessmentAttempt",
+                    "rows": Array [
+                      Object {
+                        "text": "Fitness Category",
+                        "values": Array [
+                          Object {
+                            "text": "Flex Distance",
+                          },
+                        ],
+                      },
+                      Object {
+                        "resultsKey": "footFlex",
+                        "text": "Good",
+                        "values": Array [
+                          Object {
+                            "maxValue": 2,
+                            "minValue": 2,
+                            "text": "⪰ 2 inches",
+                          },
+                        ],
+                      },
+                      Object {
+                        "resultsKey": "footFlex",
+                        "text": "Fair",
+                        "values": Array [
+                          Object {
+                            "maxValue": 1,
+                            "minValue": 1,
+                            "text": "< 2 inches",
+                          },
+                        ],
+                      },
+                      Object {
+                        "resultsKey": "footFlex",
+                        "text": "Poor",
+                        "values": Array [
+                          Object {
+                            "maxValue": 0,
+                            "minValue": 0,
+                            "text": "Could not get to 90°",
+                          },
+                        ],
+                      },
+                    ],
+                    "title": "Ankle Flexion",
+                  },
+                ],
+                "title": "How do you compare to others?",
+                "type": "table",
+              },
+              Object {
+                "displayText": "Copyright 2014. BYU Used with permission.",
+                "title": "References.",
+                "type": "paragraph",
+              },
+              Object {
+                "title": "What you entered.",
+                "type": "userInputs",
+              },
+            ],
+            "content": Object {
+              "caption": "Results",
+              "displayText": "Your ankle flexion distance:",
+              "infoText": "",
+              "infoTitle": "",
+              "scoreUnits": "",
+              "showScore": true,
+              "showStatus": false,
+            },
+            "id": 4,
+            "type": "feedback",
+          },
+        ],
+        "title": "Ankle Flexion Assessment",
+      },
+    ],
+    "statusParameters": Array [
+      "type",
+      "footFlex",
+    ],
+    "user_name": "Staging, Chris",
+    "visitedPages": Array [
+      1,
+      2,
+    ],
+  },
+  "assessmentIntro": Object {},
+  "assessmentResults": Object {},
+  "assignmentId": undefined,
+  "attemptId": 2560,
+  "courseId": undefined,
+  "currentFeedback": "",
+  "currentPage": 1,
+  "currentSection": 0,
+  "dynamicData": Object {},
+  "feedBackList": Array [],
+  "isNextPageAllowed": true,
+  "isResultsPageAllowed": false,
+  "isWBA": false,
+  "isWaitingOnDynamicData": false,
+  "priorityData": Array [
+    Object {
+      "color": "#93CD8E",
+      "confidence": 0,
+      "icon": "Dimensions_Financial",
+      "satisfaction": 0,
+      "type": "Financial",
+    },
+    Object {
+      "color": "#EA526F",
+      "confidence": 0,
+      "icon": "Dimensions_Emotional",
+      "satisfaction": 0,
+      "type": "Emotional",
+    },
+    Object {
+      "color": "#1BAAC7",
+      "confidence": 0,
+      "icon": "Dimensions_Social",
+      "satisfaction": 0,
+      "type": "Social",
+    },
+    Object {
+      "color": "#2F3C47",
+      "confidence": 0,
+      "icon": "Dimensions_Physical",
+      "satisfaction": 0,
+      "type": "Physical",
+    },
+    Object {
+      "color": "#17AB9F",
+      "confidence": 0,
+      "icon": "Dimensions_Environmental",
+      "satisfaction": 0,
+      "type": "Environmental",
+    },
+    Object {
+      "color": "#FFD05B",
+      "confidence": 0,
+      "icon": "Dimensions_Intellectual",
+      "satisfaction": 0,
+      "type": "Intellectual",
+    },
+    Object {
+      "color": "#EE6A3C",
+      "confidence": 0,
+      "icon": "Dimensions_Spiritual",
+      "satisfaction": 0,
+      "type": "Spiritual",
+    },
+    Object {
+      "color": "#B377BE",
+      "confidence": 0,
+      "icon": "Dimensions_Occupational",
+      "satisfaction": 0,
+      "type": "Occupational",
+    },
+  ],
+  "sectionsCount": 0,
+  "standardResponses": Object {},
+  "title": "Ankle Flexion Assessment",
+}
+`;

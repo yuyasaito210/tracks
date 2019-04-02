@@ -1,0 +1,247 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should handle index component renders as expected 1`] = `
+<RCTScrollView
+  style={
+    Object {
+      "flex": 1,
+      "height": 1232,
+    }
+  }
+>
+  <View>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#EE6A3C",
+          "flexDirection": "row",
+          "height": 70,
+          "justifyContent": "space-around",
+          "paddingHorizontal": 30,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "color": undefined,
+              "fontSize": 45,
+            },
+            Object {
+              "color": "#fff",
+            },
+            Object {
+              "fontFamily": "BearTracksIcons",
+              "fontStyle": "normal",
+              "fontWeight": "normal",
+            },
+          ]
+        }
+      >
+        
+      </Text>
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "flex": 1,
+            "flexDirection": "column",
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#fff",
+              "fontSize": 15,
+            }
+          }
+        >
+          This assignment is due:
+        </Text>
+        <Text
+          style={
+            Object {
+              "color": "#fff",
+              "fontSize": 20,
+              "fontWeight": "bold",
+              "marginTop": 10,
+            }
+          }
+        >
+          Sunday, July 20th
+        </Text>
+      </View>
+    </View>
+    <View>
+      <View>
+        <Text
+          style={
+            Object {
+              "color": "#2F3C47",
+              "fontWeight": "bold",
+              "paddingBottom": 10,
+              "paddingTop": 30,
+              "textAlign": "center",
+            }
+          }
+        >
+          Sample Assignment 1
+        </Text>
+      </View>
+      <View>
+        <Text
+          style={
+            Object {
+              "color": "#2F3C47",
+              "fontWeight": "bold",
+              "paddingBottom": 10,
+              "textAlign": "center",
+            }
+          }
+        >
+          Points: 5
+        </Text>
+      </View>
+    </View>
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "borderRadius": 0,
+            "borderWidth": 0,
+            "flexDirection": "column",
+            "height": 160,
+            "justifyContent": "center",
+            "margin": 20,
+            "padding": 15,
+          },
+          Object {
+            "backgroundColor": "#FFD05B",
+          },
+        ]
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "justifyContent": "center",
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+            }
+          }
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              Array [
+                Object {
+                  "color": "#2F3C47",
+                  "fontSize": 45,
+                },
+                undefined,
+                Object {
+                  "fontFamily": "BearTracksIcons",
+                  "fontStyle": "normal",
+                  "fontWeight": "normal",
+                },
+              ]
+            }
+          >
+            
+          </Text>
+        </View>
+        <Text
+          style={
+            Object {
+              "color": "#2F3C47",
+              "fontSize": 17,
+              "fontWeight": "bold",
+              "marginTop": 20,
+            }
+          }
+        >
+          Take Assessment
+        </Text>
+        <Text
+          style={
+            Object {
+              "color": "#2F3C47",
+              "fontSize": 15,
+              "fontWeight": "300",
+              "marginTop": 5,
+            }
+          }
+        >
+          Sample Assignment 1
+        </Text>
+      </View>
+    </View>
+    <View>
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "flex": 1,
+            "justifyContent": "center",
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            Array [
+              Object {
+                "color": undefined,
+                "fontSize": 25,
+              },
+              Object {
+                "color": "#979B9C",
+              },
+              Object {
+                "fontFamily": "BearTracksIcons",
+                "fontStyle": "normal",
+                "fontWeight": "normal",
+              },
+            ]
+          }
+        >
+          
+        </Text>
+      </View>
+      <View>
+        <Text
+          style={
+            Object {
+              "color": "#979B9C",
+              "paddingTop": 10,
+              "textAlign": "center",
+            }
+          }
+        >
+          Assignment 
+          Due Soon
+        </Text>
+      </View>
+    </View>
+  </View>
+</RCTScrollView>
+`;

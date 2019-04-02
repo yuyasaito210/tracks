@@ -1,0 +1,68 @@
+[{
+  "header": "Privacy Notice",
+  "text": [{
+      "subHeader": "What Personally Identifiable Information (“PII”) does Perceivant, LLC collect about you?",
+      "list": [{
+          "text": "Contact information that you provide to us, such as your name, title and organization, address, telephone number, e-mail address."
+        },
+        {
+          "text": "Credit card or other payment information that you submit for your transactions.",
+          "subList": "Perceivant, LLC does NOT store credit card or payment information."
+        }
+      ]
+    },
+    {
+      "subHeader": "Why does Perceivant collect this information?",
+      "list": [{
+          "text": "To process your transactions, maintain your account and respond to your inquiries."
+        },
+        {
+          "text": "To provide you with information about services and products that we believe may be of interest to you offered by Perceivant, LLC."
+        }
+      ]
+    },
+    {
+      "subHeader": "How does Perceivant share your PII?",
+      "list": [{
+        "text": "With our business partners who may jointly support the delivery of our products."
+      }, {
+        "text": "With instructors and administrators of your educational institution solely in the event that it is necessary to assist in addressing product support request."
+      }, {
+        "text": "When legally compelled or for other legal purposes."
+      }]
+    }
+  ]
+}, {
+  "header": "Cookie Usage",
+  "text": [{
+    "subHeader": "Please note that by using this site, you consent to the use of the cookies described below.",
+    "list": [{
+      "text": "Perceivant or our third-party service providers may use cookies (or other tracking technologies that identify your computer or device (like its IP address) and track your use of the Web site) when you visit our Web site.  We do not collect personally identifying information in this way, but if you’ve provided us with personally identifying information we may associate that information with the information that is collected automatically."
+    }, {
+      "text": "A “cookie” is a small text file placed on your computer or device, which helps our Web site function better.  We may use the following types of cookies on this Web site:"
+    }, {
+      "text": "“Strictly necessary” cookies, which have to be set to allow us to deliver the site to you and to provide specific services that you request from us. The services offered by this site that require cookies to function include:",
+      "subList": [
+        "account log-in",
+        "shopping basket/online store",
+        "billing",
+        "comments/blog features"
+      ]
+    }, {
+      "text": "“Performance” or “Analytics” cookies, which help us to collect information about how visitors use our site, and help us with site analysis and improvements.  Performance or analytics cookies will remain on your computer after you close your browser, but cannot be used to identify you personally. Perceivant, LLC uses Perceivant Data Dojo and Google Analytics to provide aggregate user information to determine the popularity and usage patterns of our web pages.  In order to gather this aggregate information, Google Analytics cookies are set during each visit to mybearface.com. For more information on Google Analytics and their privacy policy, visit http://www.google.com/privacy.html."
+    }, {
+      "text": "“Functionality” cookies, which allow our site to remember your choices or preferences, such as information on online forms or previous orders. These cookies allow us to offer you a personalized experience while using the site. They are not used to track your browsing activity on other Web sites. You can change your Web browser’ s Internet preferences to disable or delete cookies, although that may affect certain functions on this site.To learn how to manage your cookies, please follow the instructions from your specific browser. If you are visiting this site using a mobile device such as a smartphone or tablet, please refer to the manufacturer’ s instructions on how to manage cookies."
+    }, {
+      "text": "If you want to limit use of your PII for marketing purposes, Write to us at: info@perceivant.com or Perceivant, LLC, 5719 Lawton Loop East Drive, Suite 202, Indianapolis, IN 46216 and let us know if you no longer wish to be contacted for marketing purposes by e-mail, mail– or by any method."
+    }]
+  }]
+}, {
+  "header": "Security and Accuracy",
+  "text": [{
+    "list": [{
+      "text": "We have established safeguards and use reasonable security measures to protect your PII from unauthorized access and use. Your PII is stored in a secure location in the U.S. and access is limited to authorized persons."
+    }, {
+      "text": "To review and confirm the accuracy of your PII, or to contact us with concerns or questions, please write to: info@perceivant.com or Perceivant, LLC, 5719 Lawton Loop East Drive, Suite 202, Indianapolis, IN 46216."
+    }]
+  }]
+}]

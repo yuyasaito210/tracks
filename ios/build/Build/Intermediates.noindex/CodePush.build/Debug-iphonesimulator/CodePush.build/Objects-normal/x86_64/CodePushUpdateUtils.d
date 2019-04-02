@@ -1,0 +1,35 @@
+dependencies: \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/react-native-code-push/ios/CodePush/CodePushUpdateUtils.m \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/react-native-code-push/ios/CodePush/CodePush.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/react-native-code-push/ios/CodePush/JWT/Core/FrameworkSupplement/JWT.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/react-native-code-push/ios/CodePush/JWT/Core/Coding/JWTCoding.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/react-native-code-push/ios/CodePush/JWT/Core/Coding/JWTCoding+ResultTypes.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/react-native-code-push/ios/CodePush/JWT/Core/Coding/JWTCoding+VersionOne.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/react-native-code-push/ios/CodePush/JWT/Core/Coding/JWTCoding+VersionTwo.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/react-native-code-push/ios/CodePush/JWT/Core/Coding/JWTCoding+VersionThree.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/react-native-code-push/ios/CodePush/JWT/Core/Algorithms/Base/JWTAlgorithm.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/react-native-code-push/ios/CodePush/JWT/Core/Supplement/JWTDeprecations.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/react-native-code-push/ios/CodePush/JWT/Core/Algorithms/RSFamily/JWTRSAlgorithm.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/react-native-code-push/ios/CodePush/JWT/Core/Algorithms/Base/JWTAlgorithmFactory.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/react-native-code-push/ios/CodePush/JWT/Core/Algorithms/Base/JWTAlgorithmNone.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/react-native-code-push/ios/CodePush/JWT/Core/Algorithms/HSFamily/JWTAlgorithmHSBase.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/react-native-code-push/ios/CodePush/JWT/Core/Algorithms/RSFamily/JWTAlgorithmRSBase.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/react-native-code-push/ios/CodePush/JWT/Core/Algorithms/Holders/JWTAlgorithmDataHolder.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/react-native-code-push/ios/CodePush/JWT/Core/Supplement/JWTBase64Coder.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/react-native-code-push/ios/CodePush/JWT/Core/Algorithms/Holders/JWTAlgorithmDataHolderChain.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/react-native-code-push/ios/CodePush/JWT/Core/ClaimSet/JWTClaimsSet.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/react-native-code-push/ios/CodePush/JWT/Core/ClaimSet/JWTClaim.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/react-native-code-push/ios/CodePush/JWT/Core/ClaimSet/JWTClaimsSetSerializer.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/react-native-code-push/ios/CodePush/JWT/Core/ClaimSet/JWTClaimsSetVerifier.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/react-native-code-push/ios/CodePush/JWT/Core/Supplement/JWTErrorDescription.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/react-native-code-push/ios/CodePush/JWT/Core/Algorithms/RSFamily/RSKeys/JWTCryptoKey.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/react-native-code-push/ios/CodePush/JWT/Core/Algorithms/RSFamily/RSKeys/JWTCryptoKeyExtractor.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/react-native-code-push/ios/CodePush/JWT/Core/Algorithms/RSFamily/RSKeys/JWTCryptoSecurity.h

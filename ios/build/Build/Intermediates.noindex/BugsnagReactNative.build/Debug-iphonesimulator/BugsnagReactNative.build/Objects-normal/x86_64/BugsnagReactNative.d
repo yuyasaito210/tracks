@@ -1,0 +1,33 @@
+dependencies: \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/bugsnag-react-native/cocoa/BugsnagReactNative.m \
+  vendor/bugsnag-cocoa/Source/Bugsnag.h \
+  vendor/bugsnag-cocoa/Source/BugsnagConfiguration.h \
+  vendor/bugsnag-cocoa/Source/BSG_KSCrashReportWriter.h \
+  vendor/bugsnag-cocoa/Source/BugsnagBreadcrumb.h \
+  vendor/bugsnag-cocoa/Source/BugsnagCrashReport.h \
+  vendor/bugsnag-cocoa/Source/BugsnagMetaData.h \
+  vendor/bugsnag-cocoa/Source/KSCrash/Source/KSCrash/Recording/BSG_KSCrashC.h \
+  vendor/bugsnag-cocoa/Source/KSCrash/Source/KSCrash/Recording/BSG_KSCrashContext.h \
+  vendor/bugsnag-cocoa/Source/KSCrash/Source/KSCrash/Recording/Sentry/BSG_KSCrashSentry.h \
+  vendor/bugsnag-cocoa/Source/KSCrash/Source/KSCrash/Recording/Tools/BSG_KSArchSpecific.h \
+  vendor/bugsnag-cocoa/Source/KSCrash/Source/KSCrash/Recording/BSG_KSCrashType.h \
+  vendor/bugsnag-cocoa/Source/KSCrash/Source/KSCrash/Recording/BSG_KSCrashState.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/bugsnag-react-native/cocoa/BugsnagReactNative.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h

@@ -1,0 +1,19 @@
+dependencies: \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/ios/beartracks/AppDelegate.m \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/ios/beartracks/AppDelegate.h \
+  ../node_modules/bugsnag-react-native/cocoa/vendor/bugsnag-cocoa/iOS/module.modulemap \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/ios/../node_modules/bugsnag-react-native/cocoa/vendor/bugsnag-cocoa/iOS/module.modulemap \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/CodePush/CodePush.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  ../node_modules/react-native/React/Base/RCTBundleURLProvider.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLinkingManager.h \
+  ../node_modules/react-native/React/Base/RCTRootView.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/ios/../node_modules/react-native/Libraries/PushNotificationIOS/RCTPushNotificationManager.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/ios/build/Build/Products/Debug-iphonesimulator/include/BugsnagReactNative/BugsnagReactNative.h

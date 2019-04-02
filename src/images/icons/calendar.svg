@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<g id="Calendar">
+	<path d="M60,6.004H45V1c0-0.553-0.447-1-1-1c-0.553,0-1,0.447-1,1v5.004H22V1c0-0.553-0.447-1-1-1c-0.553,0-1,0.447-1,1v5.004H4
+		c-2.209,0-4,1.791-4,4V60c0,2.209,1.791,4,4,4H60c2.209,0,4-1.791,4-4V10.004C64,7.795,62.209,6.004,60,6.004z M4,8.004h16V11
+		c0,0.553,0.447,1,1,1c0.553,0,1-0.447,1-1V8.004h21V11c0,0.553,0.447,1,1,1c0.553,0,1-0.447,1-1V8.004h15c1.103,0,2,0.897,2,2V17H2
+		L2,17v-6.996C2,8.901,2.897,8.004,4,8.004z M62,60c0,1.103-0.897,2-2,2H4c-1.103,0-2-0.897-2-2V19L2,19h60V60z"/>
+	<path d="M18,24h-8v8h8V24z M16,30h-4v-4h4V30z"/>
+	<path d="M36,24h-8v8h8V24z M34,30h-4v-4h4V30z"/>
+	<path d="M54,24h-8v8h8V24z M52,30h-4v-4h4V30z"/>
+	<path d="M18,36h-8v8h8V36z M16,42h-4v-4h4V42z"/>
+	<path d="M36,36h-8v8h8V36z M34,42h-4v-4h4V42z"/>
+	<path d="M18,48h-8v8h8V48z M16,54h-4v-4h4V54z"/>
+	<path d="M36,48h-8v8h8V48z M34,54h-4v-4h4V54z"/>
+	<path d="M54,36h-8v8h8V36z M52,42h-4v-4h4V42z"/>
+	<path d="M54,48h-8v8h8V48z M52,54h-4v-4h4V54z"/>
+</g>
+</svg>

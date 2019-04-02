@@ -1,0 +1,61 @@
+{
+  "en": {
+    "Profile": {
+      "username": "User name",
+      "email": "Email",
+      "update": "Update Profile",
+      "verified": "Email verified",
+      "display": "display only",
+      "initial_text": "This is initial user page"
+    },
+    "LoginForm": {
+      "username": "User name",
+      "email": "Email",
+      "password": "Password",
+      "password_again": "Password again"
+    },
+    "Login": {
+      "login": "Log In",
+      "login_with_bearface": "Log In With Bearface Credentials",
+      "forgot_password": "forgot password?",
+      "create_account": "Create Account",
+      "login_error": "The Email Address/Password are not found or do not match. Please try again.",
+      "reset_password": "Reset Password",
+      "reset_password_text": "Enter your account email below to receive your password reset instructions.",
+      "reset_password_title": "Forgot your password?",
+      "reset_password_error": ""
+    },
+    "Register": {
+      "register": "Register"
+    },
+    "FieldValidation": {
+      "valid_user_name": "6-12 in length with letters or numbers",
+      "valid_email": "Provide valid email",
+      "valid_password": "6-12 in length, with a number and special character: !@#$%^&*",
+      "valid_password_again": "Passwords must match"
+    },
+    "ResetPassword": {
+      "login": "Login",
+      "reset_password": "Password Reset.",
+      "reset_password_text": "An email has been sent to the address you have provided.",
+      "reset_password_paragraph": "Click on the link provided to reset your password."
+    },
+    "BearTracks": {
+      "login": "Log In",
+      "main": "Main",
+      "profile": "Profile",
+      "announcement": "Announcement",
+      "announcements": "Announcements",
+      "assignment": "Assignment",
+      "assignments": "Assignments",
+      "comingUp": "Coming Up",
+      "courses": "Course List",
+      "help": "Help",
+      "pastAssignments": "Past Assignments",
+      "self_assessments": "Self-Assessments",
+      "home": "BearTracks",
+      "register": "Activate",
+      "toDo": "To Do"
+    }
+  }
+}

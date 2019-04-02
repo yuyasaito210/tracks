@@ -1,0 +1,21 @@
+dependencies: \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/bugsnag-react-native/cocoa/vendor/bugsnag-cocoa/Source/KSCrash/Source/KSCrash/Recording/BSG_KSCrash.m \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/bugsnag-react-native/cocoa/vendor/bugsnag-cocoa/Source/KSCrash/Source/KSCrash/Recording/BSG_KSCrashAdvanced.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/bugsnag-react-native/cocoa/vendor/bugsnag-cocoa/Source/KSCrash/Source/KSCrash/Recording/BSG_KSCrash.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/bugsnag-react-native/cocoa/vendor/bugsnag-cocoa/Source/KSCrash/Source/KSCrash/Recording/BSG_KSSystemCapabilities.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/bugsnag-react-native/cocoa/vendor/bugsnag-cocoa/Source/KSCrash/Source/KSCrash/Reporting/Filters/BSG_KSCrashReportFilterCompletion.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/bugsnag-react-native/cocoa/vendor/bugsnag-cocoa/Source/BSG_KSCrashReportWriter.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/bugsnag-react-native/cocoa/vendor/bugsnag-cocoa/Source/KSCrash/Source/KSCrash/Recording/BSG_KSCrashType.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/bugsnag-react-native/cocoa/vendor/bugsnag-cocoa/Source/KSCrash/Source/KSCrash/Reporting/Filters/BSG_KSCrashReportFilter.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/bugsnag-react-native/cocoa/vendor/bugsnag-cocoa/Source/KSCrash/Source/KSCrash/Recording/BSG_KSCrashReportStore.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/bugsnag-react-native/cocoa/vendor/bugsnag-cocoa/Source/BugsnagFileStore.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/bugsnag-react-native/cocoa/vendor/bugsnag-cocoa/Source/KSCrash/Source/KSCrash/Recording/BSG_KSCrashC.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/bugsnag-react-native/cocoa/vendor/bugsnag-cocoa/Source/KSCrash/Source/KSCrash/Recording/BSG_KSCrashContext.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/bugsnag-react-native/cocoa/vendor/bugsnag-cocoa/Source/KSCrash/Source/KSCrash/Recording/Sentry/BSG_KSCrashSentry.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/bugsnag-react-native/cocoa/vendor/bugsnag-cocoa/Source/KSCrash/Source/KSCrash/Recording/Tools/BSG_KSArchSpecific.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/bugsnag-react-native/cocoa/vendor/bugsnag-cocoa/Source/KSCrash/Source/KSCrash/Recording/BSG_KSCrashState.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/bugsnag-react-native/cocoa/vendor/bugsnag-cocoa/Source/KSCrash/Source/KSCrash/Recording/Tools/BSG_KSCrashCallCompletion.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/bugsnag-react-native/cocoa/vendor/bugsnag-cocoa/Source/KSCrash/Source/KSCrash/Recording/Tools/BSG_KSJSONCodecObjC.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/bugsnag-react-native/cocoa/vendor/bugsnag-cocoa/Source/KSCrash/Source/KSCrash/Recording/Tools/BSG_KSSingleton.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/bugsnag-react-native/cocoa/vendor/bugsnag-cocoa/Source/KSCrash/Source/KSCrash/Recording/Tools/NSError+BSG_SimpleConstructor.h \
+  /Volumes/Data/work/brian/perceivant/kale_mobile/node_modules/bugsnag-react-native/cocoa/vendor/bugsnag-cocoa/Source/KSCrash/Source/KSCrash/Recording/Tools/BSG_KSLogger.h
