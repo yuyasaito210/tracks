@@ -60,7 +60,7 @@
     "lodash.isnil": "^4.0.0",
     "lodash.omit": "^4.5.0",
     "moment": "git+https://github.com/tqc/moment.git#no-dynamic-import",
-    "parse": "1.8.5",
+    "parse": "7.0.0",
     "prop-types": "^15.6.0",
     "react": "16.4.1",
     "react-addons-pure-render-mixin": "15.5.2",
