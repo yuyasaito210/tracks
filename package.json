@@ -96,7 +96,7 @@
     "tcomb-form-native": "0.6.1",
     "undefined": "0.1.0",
     "underscore": "1.8.3",
-    "url-parse": "1.1.9",
+    "url-parse": "1.5.9",
     "validate.js": "0.10.0"
   },
   "devDependencies": {
